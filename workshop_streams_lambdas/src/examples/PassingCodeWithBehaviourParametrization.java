@@ -28,7 +28,7 @@ public class PassingCodeWithBehaviourParametrization {
 	
 	public static void main(String[] args){	
 		
-		List<Apple> inventory = new ArrayList<>();
+		List<Apple> inventory = new ArrayList<Apple>();
 		
 		inventory.add(new Apple("green", 150));
 		inventory.add(new Apple("red", 135));
