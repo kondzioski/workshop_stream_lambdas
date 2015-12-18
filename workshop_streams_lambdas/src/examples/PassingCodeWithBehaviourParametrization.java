@@ -1,12 +1,9 @@
 package examples;
 
+import lib.Apple;
+
 import java.util.ArrayList;
 import java.util.List;
-
-import lib.Apple;
-import predicate.AppleGreenColorPredicate;
-import predicate.AppleHavierThan150Predicate;
-import predicate.ApplePredicate;
 
 public class PassingCodeWithBehaviourParametrization {
 	
